@@ -1,0 +1,28 @@
+name: hometurner
+favicon: null
+layout_spectrum: 0.32980744377709925
+typography_spectrum: 0.6754421275109053
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22978287073783576
+  lightness: 0.9967330563813448
+  saturation: 0.11693991906940937
+  rhythmicContrast: 0.9050954072736204
+purpose: []
